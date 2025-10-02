@@ -447,9 +447,9 @@
   "pdfGapSize": 50,
   "pdfGroupPages": true,
   "pdfLockAfterImport": true,
-  "pdfNumColumns": 9,
+  "pdfNumColumns": 10,
   "pdfNumRows": 5,
-  "pdfDirection": "down",
+  "pdfDirection": "right",
   "pdfImportScale": 0.6,
   "gridSettings": {
     "DYNAMIC_COLOR": true,
