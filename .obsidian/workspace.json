@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "57603ddf1747c7f6",
+        "id": "9460b39deac38805",
         "type": "tabs",
         "children": [
           {
-            "id": "61a02716f4097a8d",
+            "id": "2f94a98b1757c59c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Instrumentacion Electronica/Notas/Tema 1.1 Amplificador de Instrumentacion.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Tema 1.1 Amplificador de Instrumentacion"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -76,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3b0a588939f485b",
@@ -141,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Instrumentacion Electronica/Notas/Tema 1.1 Amplificador de Instrumentacion.md",
+                "file": "Excalidraw/Drawing 2025-10-01 22.02.59.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tema 1.1 Amplificador de Instrumentacion"
+              "title": "Outline of Drawing 2025-10-01 22.02.59.excalidraw"
             }
           },
           {
@@ -205,25 +202,30 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "61a02716f4097a8d",
+  "active": "88f2a2a1de7b9950",
   "lastOpenFiles": [
-    "Instrumentacion Electronica/Notas/Tema 1.2 Errores del AI.md",
+    "().md",
+    "Untitled.base",
+    "create a link.md",
+    "Welcome.md",
+    "Instrumentacion Electronica/Notas/index.md",
     "Instrumentacion Electronica/Notas/Tema 1.1 Amplificador de Instrumentacion.md",
-    "Instrumentacion Electronica/PDFs/Tema_1-Parte_2-2025-26.pdf",
+    "home/gonzalo/Documents/Obsidian/Default/Instrumentacion.md",
+    "home/gonzalo/Documents/Obsidian/Default",
+    "home/gonzalo/Documents/Obsidian",
+    "home/gonzalo/Documents",
+    "home/gonzalo",
+    "home",
     "Excalidraw/Drawing 2025-10-01 22.02.59.excalidraw.md",
+    "Instrumentacion Electronica/Notas/Tema 1.2 Errores del AI.md",
+    "Untitled.canvas",
+    "Instrumentacion Electronica/PDFs/Tema_1-Parte_2-2025-26.pdf",
     "Instrumentacion Electronica/Notas/Tema 1_ Aplificador De Instrumentacion.md",
     "Excalidraw/Drawing 2025-10-01 22.19.23.excalidraw.md",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.md",
     "Sistemas Electronicos de Alimentacion/PDFs/Tema2_1_por_hoja_25_26.pdf",
-    "Welcome.md",
-    "Untitled.base",
     "Sistemas Electronicos de Alimentacion/Laboratorio",
     "Sistemas Electronicos de Alimentacion/Notas",
-    "Sistemas Electronicos de Alimentacion/PDFs",
-    "Sistemas de Control/Notas",
-    "Sistemas de Control/PDFs",
-    "Instrumentacion Electronica/Notas",
-    "Instrumentacion Electronica/PDFs",
     "2025-10-02.md"
   ]
 }
