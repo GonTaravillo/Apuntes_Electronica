@@ -4,19 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "64ef0e3fb92c7eb0",
+        "id": "57603ddf1747c7f6",
         "type": "tabs",
         "children": [
           {
-            "id": "c9a25743ba292330",
+            "id": "61a02716f4097a8d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "1664d092400bb627",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-01 22.02.59.excalidraw.md"
+                "file": "Instrumentacion Electronica/Notas/Tema 1.1 Amplificador de Instrumentacion.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-01 22.02.59.excalidraw"
+              "title": "Tema 1.1 Amplificador de Instrumentacion"
+            }
+          },
+          {
+            "id": "fab4263f43a047a3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Instrumentacion Electronica/Notas/Tema 1.2 Errores del AI.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Tema 1.2 Errores del AI"
             }
           }
         ]
@@ -140,13 +162,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-10-01 22.02.59.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-10-01 22.02.59.excalidraw"
+              "title": "Outline"
             }
           },
           {
@@ -182,12 +203,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,12 +224,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c9a25743ba292330",
+  "active": "61a02716f4097a8d",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-10-01 22.19.23.excalidraw.md",
-    "Untitled.base",
     "Excalidraw/Drawing 2025-10-01 22.02.59.excalidraw.md",
-    "Excalidraw",
-    "Welcome.md"
+    "Instrumentacion Electronica/Notas/Tema 1.2 Errores del AI.md",
+    "Instrumentacion Electronica/Notas/Tema 1.1 Amplificador de Instrumentacion.md",
+    "Instrumentacion Electronica/PDFs/Tema_1-Parte_2-2025-26.pdf",
+    "Instrumentacion Electronica/Notas/Tema 1_ Aplificador De Instrumentacion.md",
+    "Excalidraw/Drawing 2025-10-01 22.19.23.excalidraw.md",
+    "Sistemas Electronicos de Alimentacion/Notas/Tema 2.md",
+    "Sistemas Electronicos de Alimentacion/PDFs/Tema2_1_por_hoja_25_26.pdf",
+    "Welcome.md",
+    "Untitled.base",
+    "Sistemas Electronicos de Alimentacion/Laboratorio",
+    "Sistemas Electronicos de Alimentacion/Notas",
+    "Sistemas Electronicos de Alimentacion/PDFs",
+    "Sistemas de Control/Notas",
+    "Sistemas de Control/PDFs",
+    "Instrumentacion Electronica/Notas",
+    "Instrumentacion Electronica/PDFs",
+    "2025-10-02.md"
   ]
 }
