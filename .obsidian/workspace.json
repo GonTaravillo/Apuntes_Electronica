@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9460b39deac38805",
+        "id": "f888823897b31bfa",
         "type": "tabs",
         "children": [
           {
-            "id": "2f94a98b1757c59c",
+            "id": "3355270ef0eecfea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Sistemas de Control/Notas/Diseño de sistemas de control.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Diseño de sistemas de control"
             }
           }
         ]
@@ -41,23 +43,6 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
-            }
-          },
-          {
-            "id": "0e0a0d00b1fedca1",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
             }
           },
           {
@@ -146,41 +131,9 @@
               "icon": "lucide-list",
               "title": "Outline of Drawing 2025-10-01 22.02.59.excalidraw"
             }
-          },
-          {
-            "id": "8bc1b614274e578f",
-            "type": "leaf",
-            "state": {
-              "type": "footnotes",
-              "state": {
-                "file": "Untitled.base"
-              },
-              "icon": "lucide-file-signature",
-              "title": "Footnotes"
-            }
-          },
-          {
-            "id": "c0abca194344e277",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "ad1b715e1bba164e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -189,21 +142,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "audio-recorder:Start/stop recording": false,
-      "publish:Publish changes...": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "88f2a2a1de7b9950",
   "lastOpenFiles": [
+    "Sistemas de Control/Notas/T2.1; Analisis de regimen permanente.md",
+    "Sistemas de Control/Notas/Diseño de sistemas de control.md",
+    "Sistemas de Control/PDFs/S4 regimen permanente.pdf",
+    "Sistemas de Control/PDFs/S4 analisis disenio.pdf",
+    "Sistemas Electronicos de Alimentacion/Notas/Tema 2.2 Transistores.md",
+    "Instrumentacion Electronica/PDFs/Tema_1-Parte_2-2025-26.pdf",
+    "Instrumentacion Electronica/PDFs/Tema_1-Parte_1-2025-26.pdf",
+    "Sistemas Electronicos de Alimentacion/Notas/Tema 2.1 Diodos.md",
+    "Sistemas Electronicos de Alimentacion/PDFs/Tema2_1_por_hoja_25_26.pdf",
+    "Sistemas Electronicos de Alimentacion/Notas/Tema 2.1 Diodos.restored.md",
+    "Sistemas Electronicos de Alimentacion/Notas/Tema 2.md",
+    "Sistemas Electronicos de Alimentacion/Notas/Tema 2.3 Disipacion.md",
     "().md",
     "Untitled.base",
     "create a link.md",
@@ -215,17 +175,11 @@
     "home/gonzalo/Documents/Obsidian",
     "home/gonzalo/Documents",
     "home/gonzalo",
-    "home",
     "Excalidraw/Drawing 2025-10-01 22.02.59.excalidraw.md",
     "Instrumentacion Electronica/Notas/Tema 1.2 Errores del AI.md",
     "Untitled.canvas",
-    "Instrumentacion Electronica/PDFs/Tema_1-Parte_2-2025-26.pdf",
     "Instrumentacion Electronica/Notas/Tema 1_ Aplificador De Instrumentacion.md",
     "Excalidraw/Drawing 2025-10-01 22.19.23.excalidraw.md",
-    "Sistemas Electronicos de Alimentacion/Notas/Tema 2.md",
-    "Sistemas Electronicos de Alimentacion/PDFs/Tema2_1_por_hoja_25_26.pdf",
-    "Sistemas Electronicos de Alimentacion/Laboratorio",
-    "Sistemas Electronicos de Alimentacion/Notas",
     "2025-10-02.md"
   ]
 }
