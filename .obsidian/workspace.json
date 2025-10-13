@@ -11,15 +11,28 @@
             "id": "3355270ef0eecfea",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sistemas de Control/PDFs/S5 ejercicios RP.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "S5 ejercicios RP"
+            }
+          },
+          {
+            "id": "5acf7f14891294f4",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Sistemas de Control/Notas/Diseño de sistemas de control.md"
+                "file": "Sistemas de Control/Notas/T2.2 Ejercicios de analisis de regimen permanente.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Diseño de sistemas de control"
+              "title": "T2.2 Ejercicios de analisis de regimen permanente"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -59,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3b0a588939f485b",
@@ -150,11 +164,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "88f2a2a1de7b9950",
+  "active": "5acf7f14891294f4",
   "lastOpenFiles": [
-    "Sistemas de Control/Notas/T2.1; Analisis de regimen permanente.md",
-    "Sistemas de Control/Notas/Diseño de sistemas de control.md",
+    "Sistemas de Control/Notas/T2.1 Analisis de regimen permanente.md",
     "Sistemas de Control/PDFs/S4 regimen permanente.pdf",
+    "Sistemas de Control/Notas/T2.2 Ejercicios de analisis de regimen permanente.md",
+    "Sistemas de Control/PDFs/S5 ejercicios RP.pdf",
+    "Sistemas de Control/Notas/Diseño de sistemas de control.md",
     "Sistemas de Control/PDFs/S4 analisis disenio.pdf",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.2 Transistores.md",
     "Instrumentacion Electronica/PDFs/Tema_1-Parte_2-2025-26.pdf",
@@ -174,7 +190,6 @@
     "home/gonzalo/Documents/Obsidian/Default",
     "home/gonzalo/Documents/Obsidian",
     "home/gonzalo/Documents",
-    "home/gonzalo",
     "Excalidraw/Drawing 2025-10-01 22.02.59.excalidraw.md",
     "Instrumentacion Electronica/Notas/Tema 1.2 Errores del AI.md",
     "Untitled.canvas",
