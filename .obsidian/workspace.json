@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f888823897b31bfa",
+        "id": "a39f966371538044",
         "type": "tabs",
         "children": [
           {
-            "id": "3355270ef0eecfea",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sistemas de Control/PDFs/S5 ejercicios RP.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "S5 ejercicios RP"
-            }
-          },
-          {
-            "id": "5acf7f14891294f4",
+            "id": "741c0f26828ce0b2",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Sistemas de Control/Notas/T2.2 Ejercicios de analisis de regimen permanente.md"
+                "file": "Instrumentacion Electronica/Notas/Tema 1.2 Errores del AI.md"
               },
               "icon": "excalidraw-icon",
-              "title": "T2.2 Ejercicios de analisis de regimen permanente"
+              "title": "Tema 1.2 Errores del AI"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,8 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3b0a588939f485b",
@@ -164,22 +150,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5acf7f14891294f4",
+  "active": "741c0f26828ce0b2",
   "lastOpenFiles": [
+    "Instrumentacion Electronica/Notas/Tema 1.2 Errores del AI.md",
+    "Sistemas Electronicos de Alimentacion/Notas/Tema 2.4 Ejercicio 2.md",
+    "Sistemas de Control/PDFs/SOLUCIONES_PROB_Tema2_C25_26.pdf",
+    "Pasted Image 20251014100232_538.png",
+    "Sistemas Electronicos de Alimentacion/Notas/Tema 2.2 Transistores.md",
+    "Sistemas de Control/PDFs/S5 ejercicios RP.pdf",
+    "Sistemas Electronicos de Alimentacion/PDFs/Tema2_1_por_hoja_25_26.pdf",
+    "Sistemas Electronicos de Alimentacion/Notas/Tema 2.3 Disipacion.md",
+    "Sistemas de Control/Notas/T2.2 Ejercicios de analisis de regimen permanente.md",
     "Sistemas de Control/Notas/T2.1 Analisis de regimen permanente.md",
     "Sistemas de Control/PDFs/S4 regimen permanente.pdf",
-    "Sistemas de Control/Notas/T2.2 Ejercicios de analisis de regimen permanente.md",
-    "Sistemas de Control/PDFs/S5 ejercicios RP.pdf",
     "Sistemas de Control/Notas/Diseño de sistemas de control.md",
     "Sistemas de Control/PDFs/S4 analisis disenio.pdf",
-    "Sistemas Electronicos de Alimentacion/Notas/Tema 2.2 Transistores.md",
     "Instrumentacion Electronica/PDFs/Tema_1-Parte_2-2025-26.pdf",
     "Instrumentacion Electronica/PDFs/Tema_1-Parte_1-2025-26.pdf",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.1 Diodos.md",
-    "Sistemas Electronicos de Alimentacion/PDFs/Tema2_1_por_hoja_25_26.pdf",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.1 Diodos.restored.md",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.md",
-    "Sistemas Electronicos de Alimentacion/Notas/Tema 2.3 Disipacion.md",
     "().md",
     "Untitled.base",
     "create a link.md",
@@ -189,9 +179,7 @@
     "home/gonzalo/Documents/Obsidian/Default/Instrumentacion.md",
     "home/gonzalo/Documents/Obsidian/Default",
     "home/gonzalo/Documents/Obsidian",
-    "home/gonzalo/Documents",
     "Excalidraw/Drawing 2025-10-01 22.02.59.excalidraw.md",
-    "Instrumentacion Electronica/Notas/Tema 1.2 Errores del AI.md",
     "Untitled.canvas",
     "Instrumentacion Electronica/Notas/Tema 1_ Aplificador De Instrumentacion.md",
     "Excalidraw/Drawing 2025-10-01 22.19.23.excalidraw.md",
