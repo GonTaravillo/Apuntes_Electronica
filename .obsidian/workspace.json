@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a39f966371538044",
+        "id": "3a47f352e34558b5",
         "type": "tabs",
         "children": [
           {
-            "id": "741c0f26828ce0b2",
+            "id": "da1c18979fe7a7ab",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Instrumentacion Electronica/Notas/Tema 1.2 Errores del AI.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Tema 1.2 Errores del AI"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -59,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3b0a588939f485b",
@@ -150,8 +149,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "741c0f26828ce0b2",
+  "active": "da1c18979fe7a7ab",
   "lastOpenFiles": [
+    "Sistemas de Control/Notas/T2.2 Ejercicios de analisis de regimen permanente.md",
+    "Sistemas de Control/Notas/T2.4 Analisis Transitorio (Sobreamoritiguados).md",
+    "Sistemas de Control/Notas/T2.3 Analisis Transitorio.md",
+    "Sistemas de Control/PDFs/S5 Regimen transitorio.pdf",
+    "Sistemas de Control/PDFs/S6 sobreamortiguados.pdf",
+    "Sistemas de Control/Notas/Diseño de sistemas de control.md",
     "Instrumentacion Electronica/Notas/Tema 1.2 Errores del AI.md",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.4 Ejercicio 2.md",
     "Sistemas de Control/PDFs/SOLUCIONES_PROB_Tema2_C25_26.pdf",
@@ -160,10 +165,8 @@
     "Sistemas de Control/PDFs/S5 ejercicios RP.pdf",
     "Sistemas Electronicos de Alimentacion/PDFs/Tema2_1_por_hoja_25_26.pdf",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.3 Disipacion.md",
-    "Sistemas de Control/Notas/T2.2 Ejercicios de analisis de regimen permanente.md",
     "Sistemas de Control/Notas/T2.1 Analisis de regimen permanente.md",
     "Sistemas de Control/PDFs/S4 regimen permanente.pdf",
-    "Sistemas de Control/Notas/Diseño de sistemas de control.md",
     "Sistemas de Control/PDFs/S4 analisis disenio.pdf",
     "Instrumentacion Electronica/PDFs/Tema_1-Parte_2-2025-26.pdf",
     "Instrumentacion Electronica/PDFs/Tema_1-Parte_1-2025-26.pdf",
@@ -177,8 +180,6 @@
     "Instrumentacion Electronica/Notas/index.md",
     "Instrumentacion Electronica/Notas/Tema 1.1 Amplificador de Instrumentacion.md",
     "home/gonzalo/Documents/Obsidian/Default/Instrumentacion.md",
-    "home/gonzalo/Documents/Obsidian/Default",
-    "home/gonzalo/Documents/Obsidian",
     "Excalidraw/Drawing 2025-10-01 22.02.59.excalidraw.md",
     "Untitled.canvas",
     "Instrumentacion Electronica/Notas/Tema 1_ Aplificador De Instrumentacion.md",
