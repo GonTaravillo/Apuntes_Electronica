@@ -8,16 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "da1c18979fe7a7ab",
+            "id": "413c2cbf5aae180c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Sistemas Electronicos de Alimentacion/Notas/Drawing 2025-10-21 10.25.00.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-21 10.25.00.excalidraw"
+            }
+          },
+          {
+            "id": "723ec9f1cd7336d7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Instrumentacion Electronica/Notas/Tema 2.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Tema 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,32 +164,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "da1c18979fe7a7ab",
+  "active": "723ec9f1cd7336d7",
   "lastOpenFiles": [
-    "Sistemas de Control/Notas/T2.2 Ejercicios de analisis de regimen permanente.md",
+    "Instrumentacion Electronica/Notas/Tema 2.md",
+    "Sistemas Electronicos de Alimentacion/Notas/Drawing 2025-10-21 10.25.00.excalidraw.md",
+    "Instrumentacion Electronica/PDFs/Tema 2_2025-26.pdf",
+    "Sistemas Electronicos de Alimentacion/Notas/Tema 2.2 Transistores.md",
+    "Sistemas Electronicos de Alimentacion/Notas/Tema 2.4 Ejercicios.md",
+    "Sistemas Electronicos de Alimentacion/PDFs/PROB_Tema2_C25_26.pdf",
+    "Sistemas Electronicos de Alimentacion/Notas/Tema 2.3 Disipacion.md",
+    "Sistemas Electronicos de Alimentacion/PDFs/Tema2_1_por_hoja_25_26.pdf",
     "Sistemas de Control/Notas/T2.4 Analisis Transitorio (Sobreamoritiguados).md",
+    "Sistemas de Control/Notas/T2.2 Ejercicios de analisis de regimen permanente.md",
     "Sistemas de Control/Notas/T2.3 Analisis Transitorio.md",
     "Sistemas de Control/PDFs/S5 Regimen transitorio.pdf",
     "Sistemas de Control/PDFs/S6 sobreamortiguados.pdf",
     "Sistemas de Control/Notas/Diseño de sistemas de control.md",
     "Instrumentacion Electronica/Notas/Tema 1.2 Errores del AI.md",
-    "Sistemas Electronicos de Alimentacion/Notas/Tema 2.4 Ejercicio 2.md",
     "Sistemas de Control/PDFs/SOLUCIONES_PROB_Tema2_C25_26.pdf",
     "Pasted Image 20251014100232_538.png",
-    "Sistemas Electronicos de Alimentacion/Notas/Tema 2.2 Transistores.md",
     "Sistemas de Control/PDFs/S5 ejercicios RP.pdf",
-    "Sistemas Electronicos de Alimentacion/PDFs/Tema2_1_por_hoja_25_26.pdf",
-    "Sistemas Electronicos de Alimentacion/Notas/Tema 2.3 Disipacion.md",
     "Sistemas de Control/Notas/T2.1 Analisis de regimen permanente.md",
     "Sistemas de Control/PDFs/S4 regimen permanente.pdf",
     "Sistemas de Control/PDFs/S4 analisis disenio.pdf",
     "Instrumentacion Electronica/PDFs/Tema_1-Parte_2-2025-26.pdf",
-    "Instrumentacion Electronica/PDFs/Tema_1-Parte_1-2025-26.pdf",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.1 Diodos.md",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.1 Diodos.restored.md",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.md",
     "().md",
-    "Untitled.base",
     "create a link.md",
     "Welcome.md",
     "Instrumentacion Electronica/Notas/index.md",
