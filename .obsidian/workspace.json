@@ -4,31 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "3a47f352e34558b5",
+        "id": "f95716c19fc631f1",
         "type": "tabs",
         "children": [
           {
-            "id": "413c2cbf5aae180c",
+            "id": "ef82442c8555c573",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Sistemas Electronicos de Alimentacion/Notas/Drawing 2025-10-21 10.25.00.excalidraw.md"
+                "file": "Sistemas de Control/Notas/T2.5 Analisis Transitorio(Criticamente amortiguado).md"
               },
-              "icon": "lucide-ghost",
-              "title": "excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "T2.5 Analisis Transitorio(Criticamente amortiguado)"
             }
           },
           {
-            "id": "723ec9f1cd7336d7",
+            "id": "6135bbebb84ebf19",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Sistemas de Control/Notas/T2.4 Analisis Transitorio (Sobreamoritiguados).md"
+                "file": "Sistemas de Control/Notas/T2.6 Analisis Transitorio (Subamortiguados).md"
               },
               "icon": "excalidraw-icon",
-              "title": "T2.4 Analisis Transitorio (Sobreamoritiguados)"
+              "title": "T2.6 Analisis Transitorio (Subamortiguados)"
             }
           }
         ],
@@ -164,11 +164,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "723ec9f1cd7336d7",
+  "active": "6135bbebb84ebf19",
   "lastOpenFiles": [
+    "Sistemas de Control/Notas/T2.6 Analisis Transitorio (Subamortiguados).md",
+    "Sistemas de Control/PDFs/S7b subamortiguado.xopp",
+    "Sistemas de Control/PDFs/S7b subamortiguado.pdf",
+    "Sistemas de Control/Notas/T2.5 Analisis Transitorio(Criticamente amortiguado).md",
+    "Sistemas de Control/Notas/T2.3 Analisis Transitorio.md",
     "Sistemas de Control/Notas/T2.4 Analisis Transitorio (Sobreamoritiguados).md",
-    "Instrumentacion Electronica/Notas/Tema 2.md",
+    "Sistemas de Control/PDFs/S7a amortiguamiento critico.pdf",
     "Sistemas Electronicos de Alimentacion/Notas/Drawing 2025-10-21 10.25.00.excalidraw.md",
+    "Instrumentacion Electronica/Notas/Tema 2.md",
     "Instrumentacion Electronica/PDFs/Tema 2_2025-26.pdf",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.2 Transistores.md",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.4 Ejercicios.md",
@@ -176,7 +182,6 @@
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.3 Disipacion.md",
     "Sistemas Electronicos de Alimentacion/PDFs/Tema2_1_por_hoja_25_26.pdf",
     "Sistemas de Control/Notas/T2.2 Ejercicios de analisis de regimen permanente.md",
-    "Sistemas de Control/Notas/T2.3 Analisis Transitorio.md",
     "Sistemas de Control/PDFs/S5 Regimen transitorio.pdf",
     "Sistemas de Control/PDFs/S6 sobreamortiguados.pdf",
     "Sistemas de Control/Notas/Diseño de sistemas de control.md",
@@ -185,9 +190,6 @@
     "Pasted Image 20251014100232_538.png",
     "Sistemas de Control/PDFs/S5 ejercicios RP.pdf",
     "Sistemas de Control/Notas/T2.1 Analisis de regimen permanente.md",
-    "Sistemas de Control/PDFs/S4 regimen permanente.pdf",
-    "Sistemas de Control/PDFs/S4 analisis disenio.pdf",
-    "Instrumentacion Electronica/PDFs/Tema_1-Parte_2-2025-26.pdf",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.1 Diodos.md",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.1 Diodos.restored.md",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.md",
@@ -200,7 +202,6 @@
     "Excalidraw/Drawing 2025-10-01 22.02.59.excalidraw.md",
     "Untitled.canvas",
     "Instrumentacion Electronica/Notas/Tema 1_ Aplificador De Instrumentacion.md",
-    "Excalidraw/Drawing 2025-10-01 22.19.23.excalidraw.md",
-    "2025-10-02.md"
+    "Excalidraw/Drawing 2025-10-01 22.19.23.excalidraw.md"
   ]
 }
