@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c4b43f1ac56f0c81",
+        "id": "7ec188ec869e399a",
         "type": "tabs",
         "children": [
           {
-            "id": "be2b403c33d48ea9",
+            "id": "f74e6dd047159c56",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Sistemas Electronicos de Alimentacion/Notas/Tema 3.2  Problemas.md"
+                "file": "Instrumentacion Electronica/Notas/Tema 3.1 ADCs.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Tema 3.2  Problemas"
-            }
-          },
-          {
-            "id": "821dc5162b092896",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Sistemas Electronicos de Alimentacion/Notas/Tema 3.2  Problemas.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Tema 3.2  Problemas"
+              "title": "Tema 3.1 ADCs"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Electronicos de Alimentacion/Notas/Tema 3.2  Problemas.md",
+                "file": "Instrumentacion Electronica/Notas/Tema 3.1 ADCs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tema 3.2  Problemas"
+              "title": "Outline of Tema 3.1 ADCs"
             }
           }
         ],
@@ -174,15 +161,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "821dc5162b092896",
+  "active": "f74e6dd047159c56",
   "lastOpenFiles": [
-    "Pasted Image 20251104091815_205.png",
-    "Sistemas Electronicos de Alimentacion/Notas/Tema 3.1 Reguladores lineales.md",
+    "Sistemas Electronicos de Alimentacion/Notas/Tema 3.2  Problemas.md",
+    "Sistemas Electronicos de Alimentacion/PDFs/PROB_Tema2_C25_26.pdf",
     "Sistemas Electronicos de Alimentacion/PDFs/Tema3_25_26.pdf",
+    "Instrumentacion Electronica/Notas/Tema 3.1 ADCs.md",
+    "Instrumentacion Electronica/PDFs/ADC_2022_vs 1.4_alumnos.pdf",
+    "Instrumentacion Electronica/PDFs/DAC_2020-21.pdf",
+    "Sistemas Electronicos de Alimentacion/Notas/Tema 3.1 Reguladores lineales.md",
+    "Pasted Image 20251104091815_205.png",
     "Sistemas Electronicos de Alimentacion/PDFs/SOLUCIONES_PROB_Tema2_C25_26.pdf",
     "Sistemas de Control/PDFs/Tema3_25_26.pdf",
     "Sistemas Electronicos de Alimentacion/Notas/Drawing 2025-10-21 10.25.00.excalidraw.md",
-    "Sistemas Electronicos de Alimentacion/Notas/Tema 3.2  Problemas.md",
     "Pasted Image 20251104084534_030.png",
     "Sistemas de Control/Notas/T2.5 Analisis Transitorio(Criticamente amortiguado).md",
     "Sistemas de Control/Notas/T2.6 Analisis Transitorio (Subamortiguados).md",
@@ -194,12 +185,9 @@
     "Sistemas de Control/Notas/T2.4 Analisis Transitorio (Sobreamoritiguados).md",
     "Sistemas de Control/PDFs/S7a amortiguamiento critico.pdf",
     "Instrumentacion Electronica/Notas/Tema 2.md",
-    "Instrumentacion Electronica/PDFs/Tema 2_2025-26.pdf",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.2 Transistores.md",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.4 Ejercicios.md",
-    "Sistemas Electronicos de Alimentacion/PDFs/PROB_Tema2_C25_26.pdf",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.3 Disipacion.md",
-    "Sistemas Electronicos de Alimentacion/PDFs/Tema2_1_por_hoja_25_26.pdf",
     "Sistemas de Control/Notas/T2.2 Ejercicios de analisis de regimen permanente.md",
     "Sistemas de Control/Notas/Diseño de sistemas de control.md",
     "Instrumentacion Electronica/Notas/Tema 1.2 Errores del AI.md",
@@ -213,7 +201,6 @@
     "Welcome.md",
     "Instrumentacion Electronica/Notas/index.md",
     "Instrumentacion Electronica/Notas/Tema 1.1 Amplificador de Instrumentacion.md",
-    "home/gonzalo/Documents/Obsidian/Default/Instrumentacion.md",
     "Untitled.canvas"
   ]
 }
