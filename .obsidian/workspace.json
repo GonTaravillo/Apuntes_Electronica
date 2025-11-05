@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7ec188ec869e399a",
+        "id": "8f6455a1f904eb69",
         "type": "tabs",
         "children": [
           {
-            "id": "f74e6dd047159c56",
+            "id": "5c942f1bc8001e64",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Instrumentacion Electronica/Notas/Tema 3.1 ADCs.md"
+                "file": "Sistemas de Control/Notas/T3.1 Lugar de Raices.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Tema 3.1 ADCs"
+              "title": "T3.1 Lugar de Raices"
+            }
+          },
+          {
+            "id": "0a5aeb6d875c6a82",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Sistemas de Control/Notas/T3.2 Ejercicios LDR.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "T3.2 Ejercicios LDR"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,12 +174,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f74e6dd047159c56",
+  "active": "0a5aeb6d875c6a82",
   "lastOpenFiles": [
+    "Sistemas de Control/Notas/T3.1 Lugar de Raices.md",
+    "Sistemas de Control/Notas/T3.2 Ejercicios LDR.md",
+    "Sistemas de Control/PDFs/S8 lugar de las raices interpretacion.pdf",
+    "Untitled.canvas",
+    "Instrumentacion Electronica/Notas/Tema 3.1 ADCs.md",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 3.2  Problemas.md",
     "Sistemas Electronicos de Alimentacion/PDFs/PROB_Tema2_C25_26.pdf",
     "Sistemas Electronicos de Alimentacion/PDFs/Tema3_25_26.pdf",
-    "Instrumentacion Electronica/Notas/Tema 3.1 ADCs.md",
     "Instrumentacion Electronica/PDFs/ADC_2022_vs 1.4_alumnos.pdf",
     "Instrumentacion Electronica/PDFs/DAC_2020-21.pdf",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 3.1 Reguladores lineales.md",
@@ -177,13 +194,11 @@
     "Pasted Image 20251104084534_030.png",
     "Sistemas de Control/Notas/T2.5 Analisis Transitorio(Criticamente amortiguado).md",
     "Sistemas de Control/Notas/T2.6 Analisis Transitorio (Subamortiguados).md",
-    "Sistemas de Control/Notas/T3.1 Lugar de Raices.md",
     "Sistemas de Control/PDFs/S7c lugar de las raices.pdf",
     "Sistemas de Control/PDFs/S7b subamortiguado.xopp",
     "Sistemas de Control/PDFs/S7b subamortiguado.pdf",
     "Sistemas de Control/Notas/T2.3 Analisis Transitorio.md",
     "Sistemas de Control/Notas/T2.4 Analisis Transitorio (Sobreamoritiguados).md",
-    "Sistemas de Control/PDFs/S7a amortiguamiento critico.pdf",
     "Instrumentacion Electronica/Notas/Tema 2.md",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.2 Transistores.md",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.4 Ejercicios.md",
@@ -200,7 +215,6 @@
     "create a link.md",
     "Welcome.md",
     "Instrumentacion Electronica/Notas/index.md",
-    "Instrumentacion Electronica/Notas/Tema 1.1 Amplificador de Instrumentacion.md",
-    "Untitled.canvas"
+    "Instrumentacion Electronica/Notas/Tema 1.1 Amplificador de Instrumentacion.md"
   ]
 }
