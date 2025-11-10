@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8f6455a1f904eb69",
+        "id": "2941772906a026a3",
         "type": "tabs",
         "children": [
           {
-            "id": "5c942f1bc8001e64",
+            "id": "49ddbd57a137f562",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Sistemas de Control/Notas/T3.1 Lugar de Raices.md"
+                "file": "Sistemas de Control/Notas/T2.6 Analisis Transitorio (Subamortiguados).md"
               },
               "icon": "excalidraw-icon",
-              "title": "T3.1 Lugar de Raices"
-            }
-          },
-          {
-            "id": "0a5aeb6d875c6a82",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Sistemas de Control/Notas/T3.2 Ejercicios LDR.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "T3.2 Ejercicios LDR"
+              "title": "T2.6 Analisis Transitorio (Subamortiguados)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,8 +59,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a3b0a588939f485b",
@@ -137,8 +123,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -174,13 +160,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a5aeb6d875c6a82",
+  "active": "49ddbd57a137f562",
   "lastOpenFiles": [
+    "Instrumentacion Electronica/Notas/Tema 3.1 ADCs.md",
     "Sistemas de Control/Notas/T3.1 Lugar de Raices.md",
     "Sistemas de Control/Notas/T3.2 Ejercicios LDR.md",
     "Sistemas de Control/PDFs/S8 lugar de las raices interpretacion.pdf",
     "Untitled.canvas",
-    "Instrumentacion Electronica/Notas/Tema 3.1 ADCs.md",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 3.2  Problemas.md",
     "Sistemas Electronicos de Alimentacion/PDFs/PROB_Tema2_C25_26.pdf",
     "Sistemas Electronicos de Alimentacion/PDFs/Tema3_25_26.pdf",
