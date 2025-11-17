@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "T3.2 Ejercicios LDR"
             }
+          },
+          {
+            "id": "8a67e67c049495e9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Sistemas de Control/Notas/T4.1 Introduccion al diseño de sistemas.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "T4.1 Introduccion al diseño de sistemas"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,10 +174,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49ddbd57a137f562",
+  "active": "8a67e67c049495e9",
   "lastOpenFiles": [
-    "Sistemas de Control/PDFs/S9 ejercicios LDR.pdf",
     "Sistemas de Control/Notas/T3.2 Ejercicios LDR.md",
+    "Sistemas de Control/Notas/T4.1 Introduccion al diseño de sistemas.md",
+    "Sistemas de Control/PDFs/S9 intro disenio directo.pdf",
+    "Sistemas de Control/PDFs/S9 ejercicios LDR.pdf",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.2 Transistores.md",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.1 Diodos.md",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.md",
@@ -186,7 +201,6 @@
     "Pasted Image 20251104084534_030.png",
     "Sistemas de Control/Notas/T2.5 Analisis Transitorio(Criticamente amortiguado).md",
     "Sistemas de Control/PDFs/S7c lugar de las raices.pdf",
-    "Sistemas de Control/PDFs/S7b subamortiguado.xopp",
     "Sistemas de Control/Notas/T2.3 Analisis Transitorio.md",
     "Sistemas de Control/Notas/T2.4 Analisis Transitorio (Sobreamoritiguados).md",
     "Instrumentacion Electronica/Notas/Tema 2.md",
