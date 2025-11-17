@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Sistemas de Control/Notas/T2.6 Analisis Transitorio (Subamortiguados).md"
+                "file": "Sistemas de Control/Notas/T3.2 Ejercicios LDR.md"
               },
               "icon": "excalidraw-icon",
-              "title": "T2.6 Analisis Transitorio (Subamortiguados)"
+              "title": "T3.2 Ejercicios LDR"
             }
           }
         ]
@@ -59,7 +59,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3b0a588939f485b",
@@ -162,9 +163,14 @@
   },
   "active": "49ddbd57a137f562",
   "lastOpenFiles": [
+    "Sistemas de Control/PDFs/S9 ejercicios LDR.pdf",
+    "Sistemas de Control/Notas/T3.2 Ejercicios LDR.md",
+    "Sistemas Electronicos de Alimentacion/Notas/Tema 2.2 Transistores.md",
+    "Sistemas Electronicos de Alimentacion/Notas/Tema 2.1 Diodos.md",
+    "Sistemas Electronicos de Alimentacion/Notas/Tema 2.md",
+    "Sistemas de Control/Notas/T2.6 Analisis Transitorio (Subamortiguados).md",
     "Instrumentacion Electronica/Notas/Tema 3.1 ADCs.md",
     "Sistemas de Control/Notas/T3.1 Lugar de Raices.md",
-    "Sistemas de Control/Notas/T3.2 Ejercicios LDR.md",
     "Sistemas de Control/PDFs/S8 lugar de las raices interpretacion.pdf",
     "Untitled.canvas",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 3.2  Problemas.md",
@@ -179,14 +185,11 @@
     "Sistemas Electronicos de Alimentacion/Notas/Drawing 2025-10-21 10.25.00.excalidraw.md",
     "Pasted Image 20251104084534_030.png",
     "Sistemas de Control/Notas/T2.5 Analisis Transitorio(Criticamente amortiguado).md",
-    "Sistemas de Control/Notas/T2.6 Analisis Transitorio (Subamortiguados).md",
     "Sistemas de Control/PDFs/S7c lugar de las raices.pdf",
     "Sistemas de Control/PDFs/S7b subamortiguado.xopp",
-    "Sistemas de Control/PDFs/S7b subamortiguado.pdf",
     "Sistemas de Control/Notas/T2.3 Analisis Transitorio.md",
     "Sistemas de Control/Notas/T2.4 Analisis Transitorio (Sobreamoritiguados).md",
     "Instrumentacion Electronica/Notas/Tema 2.md",
-    "Sistemas Electronicos de Alimentacion/Notas/Tema 2.2 Transistores.md",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.4 Ejercicios.md",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.3 Disipacion.md",
     "Sistemas de Control/Notas/T2.2 Ejercicios de analisis de regimen permanente.md",
@@ -194,13 +197,10 @@
     "Instrumentacion Electronica/Notas/Tema 1.2 Errores del AI.md",
     "Pasted Image 20251014100232_538.png",
     "Sistemas de Control/Notas/T2.1 Analisis de regimen permanente.md",
-    "Sistemas Electronicos de Alimentacion/Notas/Tema 2.1 Diodos.md",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.1 Diodos.restored.md",
-    "Sistemas Electronicos de Alimentacion/Notas/Tema 2.md",
     "().md",
     "create a link.md",
     "Welcome.md",
-    "Instrumentacion Electronica/Notas/index.md",
-    "Instrumentacion Electronica/Notas/Tema 1.1 Amplificador de Instrumentacion.md"
+    "Instrumentacion Electronica/Notas/index.md"
   ]
 }

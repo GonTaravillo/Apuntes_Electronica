@@ -446,7 +446,7 @@
   "pdfFrame": false,
   "pdfGapSize": 200,
   "pdfGroupPages": false,
-  "pdfLockAfterImport": true,
+  "pdfLockAfterImport": false,
   "pdfNumColumns": 1,
   "pdfNumRows": 1,
   "pdfDirection": "right",
