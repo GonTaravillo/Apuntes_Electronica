@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "898079700f78588f",
+        "id": "cb6854aa59b0ee32",
         "type": "tabs",
         "children": [
           {
-            "id": "573a6bac8f359b34",
+            "id": "4c27151434dfa43d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Sistemas Electronicos de Alimentacion/Notas/Tema 4 Reguladores Conmutados.md"
+                "file": "Instrumentacion Electronica/Notas/Tema 3.4 Cadena de conversion.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Tema 4 Reguladores Conmutados"
-            }
-          },
-          {
-            "id": "44a294adce1b5aae",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Instrumentacion Electronica/Notas/Tema 3.2 DACs.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Tema 3.2 DACs"
-            }
-          },
-          {
-            "id": "2b2efef07c91808f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Instrumentacion Electronica/Notas/Tema 3.3 Tensiones de referencia.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Tema 3.3 Tensiones de referencia"
+              "title": "Tema 3.4 Cadena de conversion"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +59,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a3b0a588939f485b",
@@ -185,20 +161,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b2efef07c91808f",
+  "active": "4c27151434dfa43d",
   "lastOpenFiles": [
-    "Pasted Image 20251209121720_871.png",
+    "Instrumentacion Electronica/Notas/Tema 3.4 Cadena de conversion.md",
+    "Sistemas de Control/Notas/T4.2 Control PID.md",
+    "Sistemas de Control/Notas/T4.3 Parametros de sintonia PID.md",
+    "Sistemas de Control/PDFs/S10 truxal y ejercicios.pdf",
+    "Sistemas de Control/PDFs/S12 sintonia PID.pdf",
+    "Sistemas Electronicos de Alimentacion/Notas/Tema 4 Reguladores Conmutados.md",
     "Instrumentacion Electronica/Notas/Tema 3.2 DACs.md",
     "Instrumentacion Electronica/Notas/Tema 3.3 Tensiones de referencia.md",
+    "Pasted Image 20251209121720_871.png",
     "Instrumentacion Electronica/PDFs/VREF_2020-21.pdf",
     "Instrumentacion Electronica/Notas/Untitled.md",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 4.1 Ejercicios.md",
     "Pasted Image 20251209101322_209.png",
     "Pasted Image 20251209101237_839.png",
-    "Sistemas Electronicos de Alimentacion/Notas/Tema 4 Reguladores Conmutados.md",
     "Sistemas de Control/Notas/T3.2 Ejercicios LDR.md",
     "Sistemas de Control/Notas/Diseño de sistemas de control.md",
-    "Sistemas de Control/Notas/Drawing 2025-12-03 17.40.15.excalidraw.md",
     "Sistemas de Control/PDFs/S11 acciones control pids.pdf",
     "Instrumentacion Electronica/PDFs/DAC_2020-21.pdf",
     "Instrumentacion Electronica/PDFs/ADC_2022_vs 1.4_alumnos.pdf",
@@ -216,8 +196,6 @@
     "Sistemas de Control/PDFs/S8 lugar de las raices interpretacion.pdf",
     "Untitled.canvas",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 3.2  Problemas.md",
-    "Sistemas Electronicos de Alimentacion/PDFs/PROB_Tema2_C25_26.pdf",
-    "Sistemas Electronicos de Alimentacion/PDFs/Tema3_25_26.pdf",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 3.1 Reguladores lineales.md",
     "Pasted Image 20251104091815_205.png",
     "Pasted Image 20251104084534_030.png",
@@ -227,7 +205,6 @@
     "Instrumentacion Electronica/Notas/Tema 2.md",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.4 Ejercicios.md",
     "Sistemas Electronicos de Alimentacion/Notas/Tema 2.3 Disipacion.md",
-    "Sistemas de Control/Notas/T2.2 Ejercicios de analisis de regimen permanente.md",
     "Pasted Image 20251014100232_538.png"
   ]
 }
